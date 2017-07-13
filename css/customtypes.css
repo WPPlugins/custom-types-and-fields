@@ -1,0 +1,44 @@
+/*
+Editor Styling for GU based additions
+*/
+
+
+#wpcontent select.gu { 
+	height: auto; 
+	width: 400px;
+}
+
+#side-info-column select.gu	{ 
+	width: 125px;
+}
+img.gu-upload { 
+	max-width:100px;	
+	max-height:100px;
+}
+.image-field { 
+	display:none;
+}
+
+
+.custom-meta label {
+	width:20%;
+	display:block;
+	float:left;
+	text-align:left;
+	margin-right:3%;
+}
+p.custom-image {
+	height:160px;
+}
+p.custom-image input {
+	float:left;
+	margin-right:10px;
+}
+
+div.mce-editor {
+	width:78%;
+	margin-left:21%;
+}
+div.mce-editor textarea {
+	width:100%;
+}
